@@ -35,7 +35,7 @@ def logo():
 
 
 
-                                                   {cyan}Made With <3 By Tubouu{cyan}
+                                                   {cyan}Made With <3 By alias{cyan}
 """+ reset)
 
 
